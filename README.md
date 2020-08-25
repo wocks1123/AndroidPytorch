@@ -1,7 +1,7 @@
 # AndroidPytorch
 classification demo
 
-<img src="https://github.com/wocks1123/AndroidPytorch/blob/master/img/result.jpg?raw=true" alt="img" style="zoom:50%;" />
+<img src="https://github.com/wocks1123/AndroidPytorch/blob/master/img/result.jpg?raw=true" alt="img" width="320" height="640" />
 
 
 
