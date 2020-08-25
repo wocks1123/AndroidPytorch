@@ -1,6 +1,10 @@
 # AndroidPytorch
 classification demo
 
+<img src="https://github.com/wocks1123/AndroidPytorch/blob/master/img/result.jpg?raw=true" alt="img" style="zoom:50%;" />
+
+
+
 ```
 API23 : Android 6.0 (Marshmallow) ↑
 ```
@@ -9,14 +13,14 @@ API23 : Android 6.0 (Marshmallow) ↑
 
 `build.gradle` 에서 `dependencies`에 pytorch dependecy 추가
 
-```yaml
+```
 // ...
 
 dependencies {
 	// ...
 
 	implementation 'org.pytorch:pytorch_android:1.6.0'
-    implementation 'org.pytorch:pytorch_android_torchvision:1.6.0'
+	implementation 'org.pytorch:pytorch_android_torchvision:1.6.0'
 }
 ```
 
